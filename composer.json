@@ -1,0 +1,12 @@
+{
+    "name": "laravelhansen/urlscanner",
+    "description": "scan urls from a csv file and report inaccessible urls",
+    "require": {
+        "php": ">=5.4.0",
+        "guzzlehttp/guzzle": "~5.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "~4.3"
+    },
+    "minimum-stability": "dev"
+}
