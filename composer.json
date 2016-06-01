@@ -1,6 +1,7 @@
 {
     "name": "laravelhansen/urlscanner",
     "description": "scan urls from a csv file and report inaccessible urls",
+	"license": "MIT",
     "require": {
         "php": ">=5.4.0",
         "guzzlehttp/guzzle": "~5.0"
